@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,13 +102,8 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animaltame",
@@ -136,18 +131,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
@@ -167,7 +157,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -182,7 +172,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -217,7 +207,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,12 +227,12 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,17 +242,17 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 5500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -296,18 +286,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -326,9 +316,19 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
 	"total": 66
